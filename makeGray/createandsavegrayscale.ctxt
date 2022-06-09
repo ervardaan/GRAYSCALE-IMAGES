@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=createandsavegrayscale
+comment1.params=ir1
+comment1.target=edu.duke.ImageResource\ myconversion(edu.duke.ImageResource)
+comment2.params=
+comment2.target=void\ testmyconversion()
+comment3.params=
+comment3.target=void\ manyimagesgrayscale()
+numComments=4
